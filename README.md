@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @BewareMyPower
-- 👀 I’m interested in messaging systems like Pulsar, Kafka. Also I'm a C++ fan.
-- 🌱 I’m currently ~~learning Rust~~
-- 💞️ I’m looking to collaborate on who's interesting in Pulsar or KoP
+- 👋 Hi, I’m @BewareMyPower, a Chinese developer living on Wuhan, Hubei.
+- I’m interested in messaging systems like Pulsar, Kafka.
+- My daily development focuses on projects around Apache Pulsar.
+  - Java:
+    - https://github.com/apache/pulsar
+    - KSN (the internal fork of https://github.com/streamnative/kop)
+  - C++:
+    - https://github.com/apache/pulsar-client-cpp
+    - https://github.com/BewareMyPower/snctl-cpp
+  - Python:
+    - https://github.com/apache/pulsar-client-python
+  - Golang:
+    - https://github.com/apache/pulsar-client-go
+- I’m also learning Rust, see [rust-lab](git@github.com:BewareMyPower/rust-lab.git)
 - 📫 My personal email is xyzinfernity@163.com
 
 <!---
